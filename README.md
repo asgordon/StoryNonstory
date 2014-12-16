@@ -45,6 +45,6 @@ Precision, Recall, and F1 scores are for "story" class.
 
 References
 ----------
-This work is based on the research presented in the following two conference papers. 
+This software is based on the research presented in the following two conference papers. 
 * Gordon, A. and Swanson, R. (2009) Identifying Personal Stories in Millions of Weblog Entries. Third International Conference on Weblogs and Social Media, Data Challenge Workshop, San Jose, CA, May 20, 2009. http://people.ict.usc.edu/~gordon/publications/ICWSM09-DCW.PDF
 * Gordon, A., Huangfu, L., Sagae, K., Mao, W., and Chen, W. (2013) Identifying Personal Narratives in Chinese Weblog Posts. The 2013 Intelligent Narrative Technologies Workshop (INT6), October 14-15, 2013, Boston, MA. http://people.ict.usc.edu/~gordon/publications/INT13.PDF
