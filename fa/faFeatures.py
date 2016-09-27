@@ -72,8 +72,8 @@ def features(text):
     includeUnigrams = True
     includeBigrams = True
     includeTrigrams = True
-    text = re.sub("[\n\r]*", "", line)
-    text = re.sub(" +", " ", line)
+    text = re.sub("[\n\r]+", " ", text)
+    text = re.sub(" +", " ", text)
     f = []
     tokens = tokenize(text)
     if includeUnigrams:
